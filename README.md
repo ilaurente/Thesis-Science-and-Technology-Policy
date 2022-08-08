@@ -5,7 +5,7 @@ Programa hecho en python para la extracción y procesamiento de información sob
 
 Se hace uso del API de ElSevier cuya información se encuentra en https://dev.elsevier.com/
 
-La estructura del respositorio es la siguiente:
+La estructura del repositorio es la siguiente:
 * **data**: Carpeta que contiene los resultados de las búsquedas realizadas en la base de datos Scopus
 * **Extracción_y_Procesamiento_ElSevier_API.ipynb**: Implementación del programa de búsqueda de información usando el API de Scopus y técnicas de Data Mining (https://github.com/ilaurente/Thesis-Science-and-Technology-Policy/blob/main/Extracci%C3%B3n_y_Procesamiento_ElSevier_API.ipynb)
 * **README.md**: Explicación de la estructura del presente repositorio
