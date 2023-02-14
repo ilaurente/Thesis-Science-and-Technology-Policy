@@ -12,5 +12,5 @@ La estructura del repositorio es la siguiente:
 * **config.json**: Archivo que debe contener el **API Key** para el uso de los recursos del API y que por cuestiones de seguridad en el presente repositorio se ha borrado para que pueda ser insertado por el propio **API Key** de aquel que desee ejecutar el código o modificarlo.
 
 A continuacion se presentará las tablas de recopilación de la información de Scopus y Web Of Science, según los criterios de inclusión y exclusión, y parámetros finales de la tesis
-[Tabla Scopus](Tablas_Anexos_Scopus.pdf)
+[Tabla Scopus](Tablas_Anexos_Scopus.pdf) y 
 [Tabla Web Of Science](Tablas_Anexos_Web_of_Science.pdf)
