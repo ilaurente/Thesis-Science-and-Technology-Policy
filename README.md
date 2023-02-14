@@ -13,4 +13,4 @@ La estructura del repositorio es la siguiente:
 
 A continuacion se presentará las tablas de recopilación de la información de Scopus y Web Of Science, según los criterios de inclusión y exclusión, y parámetros finales de la tesis
 [Tabla Scopus](Tablas_Anexos_Scopus.pdf)
-[Tabla Web Of Science](Tablas_Anexos_Web of Science.pdf)
+[Tabla Web Of Science](Tablas_Anexos_Web_of_Science.pdf)
