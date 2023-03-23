@@ -12,7 +12,7 @@ La estructura del repositorio es la siguiente:
 * **config.json**: Archivo que debe contener el **API Key** para el uso de los recursos del API y que por cuestiones de seguridad en el presente repositorio se ha borrado para que pueda ser insertado por el propio **API Key** de aquel que desee ejecutar el código o modificarlo.
 
 A continuación, se presentará el flujograma de selección y exclusión de los documentos en los respositorios de Scopus y Web Of Science
-[Flujograma Scopus](Flujograma_selección_exclusión_Scopus) y  
+[Flujograma Scopus](Flujograma_selección_exclusión_Scopus.pdf) y  
 [Flujograma Web Of Science]
 
 Las tablas de recopilación de información de Scopus y Web Of Science, según los criterios y parámetros finales de la tesis
