@@ -16,7 +16,7 @@ Para el tratamiento de los datos se siguió una serie de [Pasos para el procesos
 A continuación, se presentará el flujograma de selección y exclusión de los documentos en los respositorios de Scopus y Web Of Science
 [Flujograma Scopus](Flujograma_selección_exclusión_Scopus.pdf) y [Flujograma Web Of Science](Flujograma_selección_exclusión_WoS.pdf)
 
-Según el [agrupamiento realizado](Comparativo_artículos_Scopus_WoS_por_grupos), se pudo comparar que ambos repositorios presentan temas como COVID-19, enfermedades diversas y gestión/salud pública.
+Según el [agrupamiento realizado](Comparativo_artículos_Scopus_WoS_por_grupos.pdf), se pudo comparar que ambos repositorios presentan temas como COVID-19, enfermedades diversas y gestión/salud pública.
 
 Las tablas de recopilación de información de Scopus y Web Of Science, según los criterios y parámetros finales de la tesis
 [Tabla Scopus](Tablas_Anexos_Scopus.pdf) y 
