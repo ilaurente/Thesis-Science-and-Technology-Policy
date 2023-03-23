@@ -13,7 +13,7 @@ La estructura del repositorio es la siguiente:
 
 A continuación, se presentará el flujograma de selección y exclusión de los documentos en los respositorios de Scopus y Web Of Science
 [Flujograma Scopus](Flujograma_selección_exclusión_Scopus.pdf) y  
-[Flujograma Web Of Science](Flujograma_seleccion_exclusión_WoS.pdf)
+[Flujograma Web Of Science](Flujograma_selección_exclusión_WoS.pdf)
 
 Las tablas de recopilación de información de Scopus y Web Of Science, según los criterios y parámetros finales de la tesis
 [Tabla Scopus](Tablas_Anexos_Scopus.pdf) y 
